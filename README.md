@@ -4,8 +4,17 @@ A Chrome Dino clone for **ATmega328P** with a **16x2 LCD display**. Written in C
 
 ---
 
+## Background
+
+I built this back in 2023 during my final year of high school, right after participating in the **European 3D design and entrepreneurship program (3D2ACT)** in Cyprus. 
+
+Instead of just treating the program as a nice trip, I wanted to prove to our school administration and the **Regional Directorate of Education of Crete** that we actually brought back real, practical skills. To show that the funding went into genuine engineering development rather than just a vacation, I built this system upon our return and presented it to them as tangible proof of what we learned.
+
+---
+
 ## Table of Contents
 
+- [Background](#background)
 - [Features](#features)
 - [Gallery](#gallery)
 - [Wiring Diagram](#wiring-diagram)
